@@ -1,1 +1,1 @@
-# bruteforce
+# Simple bruteforce tools wrapper script
